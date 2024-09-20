@@ -1,13 +1,13 @@
-#DECENTRALIZED TODO APP'S
+# DECENTRALIZED TODO APP'S
 
 This is TODO Application builded from Smart Contracts technology as A BlockChain. Following by Youtube Channel [Dapp University](https://youtube.com/@dappuniversity?si=BWarviuhtYEaT_77).
 But i Modification in FRONT END Part from **React.Js** to be **Next.js** Using **Typescript**
 
-##Folder frontpage-todo
+## Folder frontpage-todo
 
 That is folder that included UI the application, If u want to customize it up to u. U are free to be creative in this repository. **CLONE IT && CUSTOMIZE IT**
 
-###Running this folder
+### Running this folder
 
 Make sure u have Node.js in ur local computer. in this folder i use **yarn** package
 
@@ -15,18 +15,18 @@ Make sure u have Node.js in ur local computer. in this folder i use **yarn** pac
 2. Running http://localhost:3000/ in ur browser
 3. Just it
 
-##Folder smart-contract-todo
+## Folder smart-contract-todo
 
 This Folder contains blockchain login with Ethereum Environtment.
 
-###IMPORTANT U TO HAVE
+### IMPORTANT U TO HAVE
 
 1. Truffle
 2. Ganache
 3. Metamask (Can be added as extension, website, or desktop)
 4. Solidity Language
 
-###Running this Folder
+### Running this Folder
 
 1. Run `npm install`. u can automatically install truffle in this package. But u can install globally for ur local computer.
 2. Download Ganache in official documentation truffle. u can access this link for download it [Ganache Download](https://archive.trufflesuite.com/docs/ganache/quickstart/)
@@ -51,4 +51,4 @@ I want to tell u about something that i think this is important to know.
 2. Confirm ur Truffle Versioning
 3. Confirm about pragma version that u write in above ur solidity file
 
-Because that three point is interconnection each other because u can't define pragma version if not able in solidity and truffle
+Because that three point is interconnection each other because u can't define pragma version if not able in solidity and truffle.
