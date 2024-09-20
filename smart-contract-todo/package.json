@@ -1,0 +1,25 @@
+{
+  "name": "smart-contract-todo",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "description": "Blockchain TODO List Powered by Ethereum Smart Contracts",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^2.0.2",
+    "lite-server": "^2.3.0",
+    "nodemon": "^3.1.6",
+    "truffle": "5.0.2",
+    "truffle-contract": "3.0.6"
+  }
+}
